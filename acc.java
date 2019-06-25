@@ -1,7 +1,7 @@
 import java.util.*;
 class Account
 {
-int ac_no,withdraw,deposit,cur_bal;
+int ac_no,withdraw,deposit,cur_bal,k=10;
 String name;
 Account(String n,int a,int w,int d,int c)
 {
